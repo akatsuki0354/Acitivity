@@ -4,9 +4,8 @@
   for (int i = 1; i <= input; i++)
   {
       total += i * i;
-      Console.Write($"{i}^2");
+      Console.Write(i + "^2");
       if (i < input)
           Console.Write(" + ");
-      
   }
   Console.WriteLine(" =" + total);

@@ -6,6 +6,6 @@
   for (int i = 1; i <= input; i++) { 
   total += i;
 
-      Console.Write($"{i} + ");
+      Console.Write(i + " + ");
   }
   Console.WriteLine("=" + total);

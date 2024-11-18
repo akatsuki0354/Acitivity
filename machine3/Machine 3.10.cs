@@ -6,9 +6,8 @@
  for (int i = 1; i <= input; i++)
  {
      sum += (int)Math.Pow(i, i);
-     Console.Write($"{i}^{i}");
-     if (i < input)
-         Console.Write(" + ");
- }
+     total = (int)Math.Pow(i, i);
+     Console.WriteLine($"{i}^{i} = {total}");
+    }
 
  Console.WriteLine(" = " + sum);
