@@ -9,4 +9,4 @@ This C# activity is my example exercise to understand basic programming concepts
 ## What I Learned
 - Loops: How to repeat code until a certain condition is met.
 - If/Else Statements: How to make decisions based on conditions.
-- Variables & Data Types: Understanding how to store and manipulate different types of data in variables.
+- Switch-Case: Used as an alternative to multiple if-else statements when making decisions based on specific values.
